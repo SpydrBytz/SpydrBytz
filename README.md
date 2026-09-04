@@ -26,8 +26,3 @@
 - [ ] first CVE submission
 - [ ] browser exploitation
 - [ ] custom fuzzer development
-
----
-
-*gravloch — the anchor descends without stopping.*
-*it holds without explanation.*
